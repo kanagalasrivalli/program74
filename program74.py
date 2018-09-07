@@ -1,2 +1,2 @@
-n=float(input())
-print int(n+1)
+p=float(input())
+print int(p+1)
